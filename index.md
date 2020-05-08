@@ -21,5 +21,7 @@ This is the splash page that links all of my different notebooks. These notebook
 
 * [Pentesting Notes](https://pentesting.one2bla.me)
 * [Quizlet](https://quizlet.com/Austin_Heath30)
+* [VHL Certificate](https://one2bla.me/pages/pdfs/certificate.pdf)
+* [VHL Advanced+ Certificate](https://one2bla.me/pages/pdfs/advanced_certificate.pdf)
 
 ---
