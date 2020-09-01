@@ -5,7 +5,7 @@ This is the splash page that links all of my different notebooks. These notebook
 ## Georgia Institute of Technology
 
 * [CS6200: Graduate Introduction to Operating Systems](https://github.com/one2blame/cs6200)
-* [CS6210: Advanced Operating Systems](https://one2bla.me/pages/pdfs/cs6210.pdf)
+* [CS6210: Advanced Operating Systems](https://github.com/one2blame/cs6210)
 * [CS6265: Information Security Lab - Reverse Engineering and Binary Exploitation](https://github.com/one2blame/cs6265)
 * [CS6290: High Performance Computer Architecture](https://one2bla.me/cs6290/)
 
