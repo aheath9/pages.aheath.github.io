@@ -7,6 +7,7 @@ This is the splash page that links all of my different notebooks. These notebook
 * [CS6200: Graduate Introduction to Operating Systems](https://github.com/one2blame/cs6200)
 * [CS6210: Advanced Operating Systems](https://github.com/one2blame/cs6210)
 * [CS6250: Computer Networks](https://one2bla.me/cs6250/)
+* [CS6262: Network Security](https://one2bla.me/cs6262/)
 * [CS6265: Information Security Lab - Reverse Engineering and Binary Exploitation](https://github.com/one2blame/cs6265)
 * [CS6290: High Performance Computer Architecture](https://one2bla.me/cs6290/)
 
